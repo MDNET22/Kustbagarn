@@ -1,0 +1,3 @@
+# Kustbagarn
+
+Simple website
